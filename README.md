@@ -2,6 +2,7 @@
 
 Collaborated on a school project in a team of 3 students. The election machine is a application through which, a user can see what candidate is the most 
 suitable for him/her.
+
 Features:
   - Candidates and their answers to political questions stored in the database.
   - Ability to add/update/delete candidate/question information
